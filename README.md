@@ -1,1 +1,1 @@
-# FinalProject  Yazılım Geliştirici Yetiştirme Kampı Engin Demiroğ (Backend)
+# FinalProject  Yazılım Geliştirici Yetiştirme Kampı (Backend)
