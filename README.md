@@ -1,1 +1,1 @@
-# FinalProject  Yazılım Geliştirici Yetiştirme Kampı (Backend)
+# Yazılım Geliştirici Yetiştirme Kampı (Backend)
